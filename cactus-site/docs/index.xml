@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memory Lane</title>
-    <link>https://mosleyheather-fs.github.io/Memory-Lane/</link>
+    <link>https://mosleyheather-fs.github.io/</link>
     <description>Recent content on Memory Lane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mosleyheather-fs.github.io/Memory-Lane/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mosleyheather-fs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Ever Post</title>
-      <link>https://mosleyheather-fs.github.io/Memory-Lane/posts/2022-08-08/</link>
+      <link>https://mosleyheather-fs.github.io/posts/2022-08-08/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mosleyheather-fs.github.io/Memory-Lane/posts/2022-08-08/</guid>
+      <guid>https://mosleyheather-fs.github.io/posts/2022-08-08/</guid>
       <description>This is my first ever post on a site. Please let me know what you think of it. Pretty neat right? It was difficult and took me so long. I&amp;rsquo;m so happy it&amp;rsquo;s finally working. Seems to be working is probably better to say.</description>
     </item>
     
