@@ -1,4 +1,4 @@
-baseURL = 'https://mosleyheather-fs.github.io/hugo'
+baseURL = 'https://mosleyheather-fs.github.io/Memory-Lane'
 languageCode = 'en-us'
 title = 'Memory Lane'
 theme = "cactus"
