@@ -1,4 +1,5 @@
 baseURL = 'https://mosleyheather-fs.github.io/Memory-Lane/'
 languageCode = 'en-us'
-title = 'My Cactus Demo Site'
+title = 'Memory Lane'
 theme = "cactus"
+publishDir = "docs"
