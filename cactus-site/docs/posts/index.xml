@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Memory Lane</title>
-    <link>heartfelt-cassata-fa0338.netlify.app/posts/</link>
+    <link>https://mosleyheather-fs.github.io/Memory-Lane/posts/</link>
     <description>Recent content in Posts on Memory Lane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="heartfelt-cassata-fa0338.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mosleyheather-fs.github.io/Memory-Lane/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Ever Post</title>
-      <link>heartfelt-cassata-fa0338.netlify.app/posts/2022-08-08/</link>
+      <link>https://mosleyheather-fs.github.io/Memory-Lane/posts/2022-08-08/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>heartfelt-cassata-fa0338.netlify.app/posts/2022-08-08/</guid>
+      <guid>https://mosleyheather-fs.github.io/Memory-Lane/posts/2022-08-08/</guid>
       <description>This is my first ever post on a site. Please let me know what you think of it. Pretty neat right? It was difficult and took me so long. I&amp;rsquo;m so happy it&amp;rsquo;s finally working. Seems to be working is probably better to say.</description>
     </item>
     
