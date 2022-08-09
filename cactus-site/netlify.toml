@@ -1,5 +1,0 @@
-baseURL = 'https://heartfelt-cassata-fa0338.netlify.app'
-languageCode = 'en-us'
-title = 'Memory Lane'
-theme = "cactus"
-publishDir = "docs"
